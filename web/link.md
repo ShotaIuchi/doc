@@ -15,6 +15,9 @@ https://qiita.com/koedamon/items/37ea8e9175cf0fd62371
 - Webpack
 
 
+## 最新版TypeScript+webpack 5の環境構築まとめ(React, Vue.js, Three.jsのサンプル付き)
+https://ics.media/entry/16329/#webpack-ts
+
 ## TypeScript チュートリアル
 https://qiita.com/EBIHARA_kenji/items/31b7c1c62426bdabd263
 
