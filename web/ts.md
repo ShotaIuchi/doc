@@ -2,6 +2,10 @@
 
 ## 「index.js:2 Uncaught ReferenceError: exports is not defined」
 
+### 注釈
+- tscのみ
+- webpack不使用
+
 [exports]がないよ！って怒られる
 ```typescript
 // TypeScript
@@ -43,6 +47,10 @@ exports.User = User;
 ```
 
 ## 「Uncaught SyntaxError: Unexpected token 'export'」
+
+### 注釈
+- tscのみ
+- webpack不使用
 
 [export]をつける必要があるが[export]をつけるとエラーを吐く
 
