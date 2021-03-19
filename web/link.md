@@ -31,7 +31,7 @@ https://qiita.com/sivertigo/items/622550c5d8ec991e59a6
     - npm run tsc
 - Webpack
     - npx webpack
-    - npx run build
+    - npm run build
     ```json
     "scripts":{
         "build": "webpack"
