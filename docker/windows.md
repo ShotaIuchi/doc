@@ -7,6 +7,8 @@
 
 ### Windows コンテナ
 
+- Docker Hub
+- https://hub.docker.com/_/microsoft-windows
 - Build Tools をコンテナーにインストールする
 - https://docs.microsoft.com/ja-jp/visualstudio/install/build-tools-container?view=vs-2019
 - 参考:Windows コンテナで VC++ プロジェクトのビルド環境を作る
